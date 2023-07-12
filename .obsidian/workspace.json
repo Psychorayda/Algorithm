@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "cf5040caf48f936a",
+    "type": "split",
+    "children": [
+      {
+        "id": "bec392573e167e05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d486c12aaf370065",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d27cb2c4c34b41a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "book/chapt.1/1.3-面试流程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5fd023f165535bb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f19bd602b75f309c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0976a4a55a81f1d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6de1b7aec5d1acd9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e5b92c94e73072da",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d4f8474730d3b548",
+    "type": "split",
+    "children": [
+      {
+        "id": "b32f76abcf7d93ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0847f7f95ceff23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "book/chapt.1/1.3-面试流程.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f93408716affc0b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "book/chapt.1/1.3-面试流程.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "094a94df86ff1d6e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "40819f8760130cd5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "book/chapt.1/1.3-面试流程.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d27cb2c4c34b41a5",
+  "lastOpenFiles": [
+    "book/chapt.1/1.2-简历.md",
+    "book/chapt.1/1.1-算法-语言-规范.md",
+    "book/chapt.1/1.3-面试流程.md",
+    "book/chapt.1",
+    "code",
+    "book"
+  ]
+}
